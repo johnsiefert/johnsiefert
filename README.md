@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Siefert</h1>
 <h3 align="center">A passionate developer from Michigan</h3>
-<p align="center">Michigan State University Bootcamp Grad. Also, continuing my knowledge through Udemy, Scrimba and building personal projects. Please check out some of the pinned projects below!</p>
+<p align="center">Michigan State University Bootcamp Grad. Also, continuing my knowledge through Udemy, Scrimba and building personal projects. Please check out some of the projects below!</p>
 
 - 🌱 I’m currently learning: **JavaScript, React, APIs**
 
@@ -9,6 +9,12 @@
 - LinkedIn Profile: https://www.linkedin.com/in/john-siefert-778676b8/
 
 - ⚡ Hobbies:  **Cornhole, Golf, Traveling**
+
+- Projects:
+- https://johnsiefert.github.io/Blog-Website/
+- https://johnsiefert.github.io/pwd-generator/
+- https://johnsiefert.github.io/x-post/
+- https://johnsiefert.github.io/oldagram/
 
 
 <h3 align="left">Languages and Tools:</h3>
