@@ -4,13 +4,14 @@
 
 - 🌱 I’m currently learning **JavaScript, React, APIs**
 
-- 📫 How to reach me **johnsief12@gmail.com**
+- 📫 Email **johnsief12@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/john-siefert-778676b8/
 
-- ⚡ Hobbies **Cornhole, Golf, Traveling**
+- ⚡ Hobbies:  **Cornhole, Golf, Traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johnsiefert-778676b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsiefert" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnsiefert778676b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsiefert" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
