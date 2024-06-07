@@ -11,6 +11,7 @@
 - ⚡ Hobbies:  **Cornhole, Golf, Traveling**
 
 - Projects:
+- https://johnsiefert.github.io/restaurant-order/
 - https://johnsiefert.github.io/pwd-generator/
 - https://johnsiefert.github.io/x-post/
 - https://johnsiefert.github.io/oldagram/
